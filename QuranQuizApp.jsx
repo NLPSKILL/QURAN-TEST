@@ -51,4 +51,4 @@ export default function QuranQuizApp() {
     </div>
   );
 }
-تعديل على السؤال
+تعديل وعلى السؤال
